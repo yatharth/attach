@@ -1,0 +1,10 @@
+# Project-specific.
+/Scratch.ipynb
+
+# Python.
+*.pyc
+
+# Python packaging.
+build/
+dist/
+*.egg-info/
